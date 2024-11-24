@@ -1,0 +1,4 @@
+﻿  Problem 46.cpp
+D:\Data\Problem Solving C++\Problem Solving\Problem 46\Problem 46.cpp(19,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\Problem Solving C++\Problem Solving\Problem 46\Problem 46.cpp(21,14): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  Problem 46.vcxproj -> D:\Data\Problem Solving C++\Problem Solving\x64\Debug\Problem 46.exe

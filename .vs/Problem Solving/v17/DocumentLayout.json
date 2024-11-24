@@ -1,0 +1,773 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFCE76D-AFE8-4900-8809-9C1E34CD6E15}|Problem 46\\Problem 46.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 46\\Problem 46.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCFCE76D-AFE8-4900-8809-9C1E34CD6E15}|Problem 46\\Problem 46.vcxproj|solutionrelative:Problem 46\\Problem 46.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFCE76D-AFE8-4900-8809-9C1E34CD6E15}|Problem 46\\Problem 46.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFC0B83-045E-4F6C-91FE-B70DA0F813DF}|Problem 45\\Problem 45.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 45\\Problem 45.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDFC0B83-045E-4F6C-91FE-B70DA0F813DF}|Problem 45\\Problem 45.vcxproj|solutionrelative:Problem 45\\Problem 45.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAA8BEC-D67F-443B-9C36-D9F7B9803C7F}|Problem 44\\Problem 44.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 44\\Problem 44.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EAA8BEC-D67F-443B-9C36-D9F7B9803C7F}|Problem 44\\Problem 44.vcxproj|solutionrelative:Problem 44\\Problem 44.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50A9A76-9AC6-4535-97FC-FD634DB7949A}|Problem 43\\Problem 43.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 43\\Problem 43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C50A9A76-9AC6-4535-97FC-FD634DB7949A}|Problem 43\\Problem 43.vcxproj|solutionrelative:Problem 43\\Problem 43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1DE4D-D3FC-488B-9021-A5712B094FC5}|Problem 37\\Problem 37.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 37\\Problem 37.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24D1DE4D-D3FC-488B-9021-A5712B094FC5}|Problem 37\\Problem 37.vcxproj|solutionrelative:Problem 37\\Problem 37.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75293964-2139-48A1-BC0F-0256AD43ECF5}|Problem 38\\Problem 38.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 38\\Problem 38.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75293964-2139-48A1-BC0F-0256AD43ECF5}|Problem 38\\Problem 38.vcxproj|solutionrelative:Problem 38\\Problem 38.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33514E9-F07E-4A78-B46A-390480757078}|Problem 40\\Problem 40.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 40\\Problem 40.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C33514E9-F07E-4A78-B46A-390480757078}|Problem 40\\Problem 40.vcxproj|solutionrelative:Problem 40\\Problem 40.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CC3BCE-1F76-4D15-81D6-7A91AB83728E}|Problem 42\\Problem 42.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 42\\Problem 42.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72CC3BCE-1F76-4D15-81D6-7A91AB83728E}|Problem 42\\Problem 42.vcxproj|solutionrelative:Problem 42\\Problem 42.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A520A-CD8F-4766-917F-065DC9A514FE}|Problem 31\\Problem 31.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 31\\Problem 31.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B5A520A-CD8F-4766-917F-065DC9A514FE}|Problem 31\\Problem 31.vcxproj|solutionrelative:Problem 31\\Problem 31.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7995ABC-B3D3-480D-B6D1-4694CB835904}|Problem 34\\Problem 34.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 34\\Problem 34.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7995ABC-B3D3-480D-B6D1-4694CB835904}|Problem 34\\Problem 34.vcxproj|solutionrelative:Problem 34\\Problem 34.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E557029-10F1-4398-8223-0DB63D6FFC85}|Problem 35\\Problem 35.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 35\\Problem 35.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E557029-10F1-4398-8223-0DB63D6FFC85}|Problem 35\\Problem 35.vcxproj|solutionrelative:Problem 35\\Problem 35.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E061348D-5B68-48E7-80A7-E57EB737DA07}|Problem 36\\Problem 36.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 36\\Problem 36.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E061348D-5B68-48E7-80A7-E57EB737DA07}|Problem 36\\Problem 36.vcxproj|solutionrelative:Problem 36\\Problem 36.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C171E-643F-4EF1-8474-4B8AF3EC6CC4}|Problem 39\\Problem 39.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 39\\Problem 39.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA1C171E-643F-4EF1-8474-4B8AF3EC6CC4}|Problem 39\\Problem 39.vcxproj|solutionrelative:Problem 39\\Problem 39.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A98696-719C-49D7-94E9-FD4C417CAC26}|Problem 41\\Problem 41.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 41\\Problem 41.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92A98696-719C-49D7-94E9-FD4C417CAC26}|Problem 41\\Problem 41.vcxproj|solutionrelative:Problem 41\\Problem 41.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1280DF6B-9AC1-4A00-9511-50C1C804E700}|Problem 33\\Problem 33.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 33\\Problem 33.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1280DF6B-9AC1-4A00-9511-50C1C804E700}|Problem 33\\Problem 33.vcxproj|solutionrelative:Problem 33\\Problem 33.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E31E848-0FFA-4740-A47E-65EDC063C475}|Problem 32\\Problem 32.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 32\\Problem 32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E31E848-0FFA-4740-A47E-65EDC063C475}|Problem 32\\Problem 32.vcxproj|solutionrelative:Problem 32\\Problem 32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D524D7B-E353-4C6D-A11F-92F15661570A}|Problem 30\\Problem 30.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 30\\Problem 30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D524D7B-E353-4C6D-A11F-92F15661570A}|Problem 30\\Problem 30.vcxproj|solutionrelative:Problem 30\\Problem 30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEE13D2-DA84-435B-A964-B840011D6CCF}|Problem 29\\Problem 29.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 29\\Problem 29.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FEE13D2-DA84-435B-A964-B840011D6CCF}|Problem 29\\Problem 29.vcxproj|solutionrelative:Problem 29\\Problem 29.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC620D2-8132-43F5-B892-8F6ECC0EDDDC}|Problem 28\\Problem 28.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 28\\Problem 28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC620D2-8132-43F5-B892-8F6ECC0EDDDC}|Problem 28\\Problem 28.vcxproj|solutionrelative:Problem 28\\Problem 28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C26229-7424-4F13-B20E-7503D33E427C}|Problem 26\\Problem 26.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 26\\Problem 26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2C26229-7424-4F13-B20E-7503D33E427C}|Problem 26\\Problem 26.vcxproj|solutionrelative:Problem 26\\Problem 26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2A28AB-A7B6-4918-8AAC-ABBA3ABA7E26}|Problem 27\\Problem 27.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 27\\Problem 27.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD2A28AB-A7B6-4918-8AAC-ABBA3ABA7E26}|Problem 27\\Problem 27.vcxproj|solutionrelative:Problem 27\\Problem 27.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C8F0D5-B18E-4F5E-904A-DD81CE4C0310}|Problem 25\\Problem 25.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 25\\Problem 25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26C8F0D5-B18E-4F5E-904A-DD81CE4C0310}|Problem 25\\Problem 25.vcxproj|solutionrelative:Problem 25\\Problem 25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51D19-13DA-476F-96D8-C15B78FE000C}|Problem 24\\Problem 24.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 24\\Problem 24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9B51D19-13DA-476F-96D8-C15B78FE000C}|Problem 24\\Problem 24.vcxproj|solutionrelative:Problem 24\\Problem 24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA3DE9E-44F3-419C-81CB-F26227650BA8}|Problem 23\\Problem 23.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 23\\Problem 23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DA3DE9E-44F3-419C-81CB-F26227650BA8}|Problem 23\\Problem 23.vcxproj|solutionrelative:Problem 23\\Problem 23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D64F13-432E-47A7-B992-2F37764DBBD6}|Problem 22\\Problem 22.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 22\\Problem 22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15D64F13-432E-47A7-B992-2F37764DBBD6}|Problem 22\\Problem 22.vcxproj|solutionrelative:Problem 22\\Problem 22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6944EB0-2AC2-4E2D-A58D-3DDB5C7BF9EB}|Problem 21\\Problem 21.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 21\\Problem 21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6944EB0-2AC2-4E2D-A58D-3DDB5C7BF9EB}|Problem 21\\Problem 21.vcxproj|solutionrelative:Problem 21\\Problem 21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5E786F-DF3B-49B7-94C4-2A009D8E24B9}|Problem 20\\Problem 20.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 20\\Problem 20.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD5E786F-DF3B-49B7-94C4-2A009D8E24B9}|Problem 20\\Problem 20.vcxproj|solutionrelative:Problem 20\\Problem 20.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D860A8-C083-4604-B44B-16FE9250783A}|Problem 19\\Problem 19.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 19\\Problem 19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70D860A8-C083-4604-B44B-16FE9250783A}|Problem 19\\Problem 19.vcxproj|solutionrelative:Problem 19\\Problem 19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7768283E-B6DB-42D2-A5FD-0F39523FC4FD}|Problem 18\\Problem 18.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 18\\Problem 18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7768283E-B6DB-42D2-A5FD-0F39523FC4FD}|Problem 18\\Problem 18.vcxproj|solutionrelative:Problem 18\\Problem 18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208C960-B31D-4DBA-8B0E-D13AA3CE3A0C}|fill  a 3X3 matrix\\fill  a 3X3 matrix.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\fill  a 3X3 matrix\\fill  a 3X3 matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D208C960-B31D-4DBA-8B0E-D13AA3CE3A0C}|fill  a 3X3 matrix\\fill  a 3X3 matrix.vcxproj|solutionrelative:fill  a 3X3 matrix\\fill  a 3X3 matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA5D109-B5C3-4F8D-A61E-3B048E254D5D}|Problem 17\\Problem 17.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 17\\Problem 17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA5D109-B5C3-4F8D-A61E-3B048E254D5D}|Problem 17\\Problem 17.vcxproj|solutionrelative:Problem 17\\Problem 17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAAAF37-A708-408B-8A94-B2FE849B903E}|Problem 16\\Problem 16.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 16\\Problem 16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCAAAF37-A708-408B-8A94-B2FE849B903E}|Problem 16\\Problem 16.vcxproj|solutionrelative:Problem 16\\Problem 16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CB6677-BF82-45FA-B70F-DE5363415937}|Problem 15\\Problem 15.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 15\\Problem 15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97CB6677-BF82-45FA-B70F-DE5363415937}|Problem 15\\Problem 15.vcxproj|solutionrelative:Problem 15\\Problem 15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6799A25-47B3-44C9-8B35-47E6C491DB86}|Problem 14\\Problem 14.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 14\\Problem 14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6799A25-47B3-44C9-8B35-47E6C491DB86}|Problem 14\\Problem 14.vcxproj|solutionrelative:Problem 14\\Problem 14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EB9B2-00FF-4366-AC69-D38875B7EF5B}|Problem 13\\Problem 13.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 13\\Problem 13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{272EB9B2-00FF-4366-AC69-D38875B7EF5B}|Problem 13\\Problem 13.vcxproj|solutionrelative:Problem 13\\Problem 13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C067BE-BA43-45F8-A35B-5672989BCB39}|Problem 12\\Problem 12.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 12\\Problem 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4C067BE-BA43-45F8-A35B-5672989BCB39}|Problem 12\\Problem 12.vcxproj|solutionrelative:Problem 12\\Problem 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE101D6B-EBAA-454E-9A4F-208CDC5C0E3C}|Problem 11\\Problem 11.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 11\\Problem 11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE101D6B-EBAA-454E-9A4F-208CDC5C0E3C}|Problem 11\\Problem 11.vcxproj|solutionrelative:Problem 11\\Problem 11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E2FAE9-B47A-400E-89D7-75A2B07F7A22}|Problem 10\\Problem 10.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 10\\Problem 10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33E2FAE9-B47A-400E-89D7-75A2B07F7A22}|Problem 10\\Problem 10.vcxproj|solutionrelative:Problem 10\\Problem 10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72549FD-6910-4D0E-9E5A-512311099464}|Problem 9\\Problem 9.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 9\\Problem 9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B72549FD-6910-4D0E-9E5A-512311099464}|Problem 9\\Problem 9.vcxproj|solutionrelative:Problem 9\\Problem 9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15C250A-7FD3-4C96-9C73-08C62620AD8F}|Problem 8\\Problem 8.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 8\\Problem 8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C15C250A-7FD3-4C96-9C73-08C62620AD8F}|Problem 8\\Problem 8.vcxproj|solutionrelative:Problem 8\\Problem 8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33395A2-E5B7-450E-933F-DF41CCAAE3B4}|Problem 5\\Problem 5.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 5\\Problem 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E33395A2-E5B7-450E-933F-DF41CCAAE3B4}|Problem 5\\Problem 5.vcxproj|solutionrelative:Problem 5\\Problem 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34A2D01-DA0D-482F-8747-9EC956C5DF3C}|Problem 6\\Problem 6.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 6\\Problem 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B34A2D01-DA0D-482F-8747-9EC956C5DF3C}|Problem 6\\Problem 6.vcxproj|solutionrelative:Problem 6\\Problem 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E5987-6EDE-44D3-8152-7FB4D2D77BC9}|Problem 7\\Problem 7.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 7\\Problem 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{588E5987-6EDE-44D3-8152-7FB4D2D77BC9}|Problem 7\\Problem 7.vcxproj|solutionrelative:Problem 7\\Problem 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7754FA-EB90-4895-A9A3-5CFFD6C341B0}|problem 4\\problem 4.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\problem 4\\problem 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE7754FA-EB90-4895-A9A3-5CFFD6C341B0}|problem 4\\problem 4.vcxproj|solutionrelative:problem 4\\problem 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B919A3-4DD3-4732-B261-E661D0F73453}|Problem 3\\Problem 3.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 3\\Problem 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05B919A3-4DD3-4732-B261-E661D0F73453}|Problem 3\\Problem 3.vcxproj|solutionrelative:Problem 3\\Problem 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A64128-A1E6-4DF6-B27C-3D8127C60CA6}|Problem 2\\Problem 2.vcxproj|D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 2\\Problem 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83A64128-A1E6-4DF6-B27C-3D8127C60CA6}|Problem 2\\Problem 2.vcxproj|solutionrelative:Problem 2\\Problem 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+              "ViewState": "AQIAAFsHAAAAAAAAAAArwGAHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T20:03:01.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem 46.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 46\\Problem 46.cpp",
+              "RelativeDocumentMoniker": "Problem 46\\Problem 46.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 46\\Problem 46.cpp",
+              "RelativeToolTip": "Problem 46\\Problem 46.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T19:28:33.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Problem 45.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 45\\Problem 45.cpp",
+              "RelativeDocumentMoniker": "Problem 45\\Problem 45.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 45\\Problem 45.cpp",
+              "RelativeToolTip": "Problem 45\\Problem 45.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T19:06:57.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Problem 44.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 44\\Problem 44.cpp",
+              "RelativeDocumentMoniker": "Problem 44\\Problem 44.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 44\\Problem 44.cpp",
+              "RelativeToolTip": "Problem 44\\Problem 44.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T19:12:42.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Problem 43.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 43\\Problem 43.cpp",
+              "RelativeDocumentMoniker": "Problem 43\\Problem 43.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 43\\Problem 43.cpp",
+              "RelativeToolTip": "Problem 43\\Problem 43.cpp",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAYwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T18:22:17.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Problem 40.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 40\\Problem 40.cpp",
+              "RelativeDocumentMoniker": "Problem 40\\Problem 40.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 40\\Problem 40.cpp",
+              "RelativeToolTip": "Problem 40\\Problem 40.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T19:04:58.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Problem 38.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 38\\Problem 38.cpp",
+              "RelativeDocumentMoniker": "Problem 38\\Problem 38.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 38\\Problem 38.cpp",
+              "RelativeToolTip": "Problem 38\\Problem 38.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T18:37:51.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Problem 37.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 37\\Problem 37.cpp",
+              "RelativeDocumentMoniker": "Problem 37\\Problem 37.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 37\\Problem 37.cpp",
+              "RelativeToolTip": "Problem 37\\Problem 37.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T18:29:28.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Problem 36.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 36\\Problem 36.cpp",
+              "RelativeDocumentMoniker": "Problem 36\\Problem 36.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 36\\Problem 36.cpp",
+              "RelativeToolTip": "Problem 36\\Problem 36.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T18:21:35.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Problem 35.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 35\\Problem 35.cpp",
+              "RelativeDocumentMoniker": "Problem 35\\Problem 35.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 35\\Problem 35.cpp",
+              "RelativeToolTip": "Problem 35\\Problem 35.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T18:46:57.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Problem 34.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 34\\Problem 34.cpp",
+              "RelativeDocumentMoniker": "Problem 34\\Problem 34.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 34\\Problem 34.cpp",
+              "RelativeToolTip": "Problem 34\\Problem 34.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T18:42:30.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Problem 31.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 31\\Problem 31.cpp",
+              "RelativeDocumentMoniker": "Problem 31\\Problem 31.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 31\\Problem 31.cpp",
+              "RelativeToolTip": "Problem 31\\Problem 31.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T20:53:13.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Problem 42.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 42\\Problem 42.cpp",
+              "RelativeDocumentMoniker": "Problem 42\\Problem 42.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 42\\Problem 42.cpp",
+              "RelativeToolTip": "Problem 42\\Problem 42.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T19:01:23.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Problem 39.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 39\\Problem 39.cpp",
+              "RelativeDocumentMoniker": "Problem 39\\Problem 39.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 39\\Problem 39.cpp",
+              "RelativeToolTip": "Problem 39\\Problem 39.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T18:57:04.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Problem 41.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 41\\Problem 41.cpp",
+              "RelativeDocumentMoniker": "Problem 41\\Problem 41.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 41\\Problem 41.cpp",
+              "RelativeToolTip": "Problem 41\\Problem 41.cpp",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T18:46:05.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Problem 33.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 33\\Problem 33.cpp",
+              "RelativeDocumentMoniker": "Problem 33\\Problem 33.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 33\\Problem 33.cpp",
+              "RelativeToolTip": "Problem 33\\Problem 33.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T18:36:16.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Problem 32.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 32\\Problem 32.cpp",
+              "RelativeDocumentMoniker": "Problem 32\\Problem 32.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 32\\Problem 32.cpp",
+              "RelativeToolTip": "Problem 32\\Problem 32.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T18:27:57.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Problem 30.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 30\\Problem 30.cpp",
+              "RelativeDocumentMoniker": "Problem 30\\Problem 30.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 30\\Problem 30.cpp",
+              "RelativeToolTip": "Problem 30\\Problem 30.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T20:44:44.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Problem 29.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 29\\Problem 29.cpp",
+              "RelativeDocumentMoniker": "Problem 29\\Problem 29.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 29\\Problem 29.cpp",
+              "RelativeToolTip": "Problem 29\\Problem 29.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T20:34:13.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Problem 28.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 28\\Problem 28.cpp",
+              "RelativeDocumentMoniker": "Problem 28\\Problem 28.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 28\\Problem 28.cpp",
+              "RelativeToolTip": "Problem 28\\Problem 28.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T20:26:31.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Problem 27.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 27\\Problem 27.cpp",
+              "RelativeDocumentMoniker": "Problem 27\\Problem 27.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 27\\Problem 27.cpp",
+              "RelativeToolTip": "Problem 27\\Problem 27.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T20:19:35.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Problem 26.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 26\\Problem 26.cpp",
+              "RelativeDocumentMoniker": "Problem 26\\Problem 26.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 26\\Problem 26.cpp",
+              "RelativeToolTip": "Problem 26\\Problem 26.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T19:16:10.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Problem 25.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 25\\Problem 25.cpp",
+              "RelativeDocumentMoniker": "Problem 25\\Problem 25.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 25\\Problem 25.cpp",
+              "RelativeToolTip": "Problem 25\\Problem 25.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T19:12:56.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Problem 24.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 24\\Problem 24.cpp",
+              "RelativeDocumentMoniker": "Problem 24\\Problem 24.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 24\\Problem 24.cpp",
+              "RelativeToolTip": "Problem 24\\Problem 24.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T18:52:03.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Problem 23.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 23\\Problem 23.cpp",
+              "RelativeDocumentMoniker": "Problem 23\\Problem 23.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 23\\Problem 23.cpp",
+              "RelativeToolTip": "Problem 23\\Problem 23.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T19:07:07.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Problem 22.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 22\\Problem 22.cpp",
+              "RelativeDocumentMoniker": "Problem 22\\Problem 22.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 22\\Problem 22.cpp",
+              "RelativeToolTip": "Problem 22\\Problem 22.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T19:02:20.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Problem 21.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 21\\Problem 21.cpp",
+              "RelativeDocumentMoniker": "Problem 21\\Problem 21.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 21\\Problem 21.cpp",
+              "RelativeToolTip": "Problem 21\\Problem 21.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T18:41:54.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Problem 20.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 20\\Problem 20.cpp",
+              "RelativeDocumentMoniker": "Problem 20\\Problem 20.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 20\\Problem 20.cpp",
+              "RelativeToolTip": "Problem 20\\Problem 20.cpp",
+              "ViewState": "AQIAAEQAAAAAAAAAAADwv1QAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:44:57.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Problem 19.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 19\\Problem 19.cpp",
+              "RelativeDocumentMoniker": "Problem 19\\Problem 19.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 19\\Problem 19.cpp",
+              "RelativeToolTip": "Problem 19\\Problem 19.cpp",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:37:03.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Problem 18.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 18\\Problem 18.cpp",
+              "RelativeDocumentMoniker": "Problem 18\\Problem 18.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 18\\Problem 18.cpp",
+              "RelativeToolTip": "Problem 18\\Problem 18.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:20:45.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Problem 17.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 17\\Problem 17.cpp",
+              "RelativeDocumentMoniker": "Problem 17\\Problem 17.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 17\\Problem 17.cpp",
+              "RelativeToolTip": "Problem 17\\Problem 17.cpp",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwDwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:10:53.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Problem 14.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 14\\Problem 14.cpp",
+              "RelativeDocumentMoniker": "Problem 14\\Problem 14.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 14\\Problem 14.cpp",
+              "RelativeToolTip": "Problem 14\\Problem 14.cpp",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T18:43:35.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Problem 13.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 13\\Problem 13.cpp",
+              "RelativeDocumentMoniker": "Problem 13\\Problem 13.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 13\\Problem 13.cpp",
+              "RelativeToolTip": "Problem 13\\Problem 13.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T20:26:35.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Problem 12.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 12\\Problem 12.cpp",
+              "RelativeDocumentMoniker": "Problem 12\\Problem 12.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 12\\Problem 12.cpp",
+              "RelativeToolTip": "Problem 12\\Problem 12.cpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T20:21:38.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Problem 11.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 11\\Problem 11.cpp",
+              "RelativeDocumentMoniker": "Problem 11\\Problem 11.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 11\\Problem 11.cpp",
+              "RelativeToolTip": "Problem 11\\Problem 11.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T20:11:09.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Problem 10.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 10\\Problem 10.cpp",
+              "RelativeDocumentMoniker": "Problem 10\\Problem 10.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 10\\Problem 10.cpp",
+              "RelativeToolTip": "Problem 10\\Problem 10.cpp",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T20:01:32.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "fill  a 3X3 matrix.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\fill  a 3X3 matrix\\fill  a 3X3 matrix.cpp",
+              "RelativeDocumentMoniker": "fill  a 3X3 matrix\\fill  a 3X3 matrix.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\fill  a 3X3 matrix\\fill  a 3X3 matrix.cpp",
+              "RelativeToolTip": "fill  a 3X3 matrix\\fill  a 3X3 matrix.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T17:52:33.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Problem 15.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 15\\Problem 15.cpp",
+              "RelativeDocumentMoniker": "Problem 15\\Problem 15.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 15\\Problem 15.cpp",
+              "RelativeToolTip": "Problem 15\\Problem 15.cpp",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T18:48:45.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Problem 16.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 16\\Problem 16.cpp",
+              "RelativeDocumentMoniker": "Problem 16\\Problem 16.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 16\\Problem 16.cpp",
+              "RelativeToolTip": "Problem 16\\Problem 16.cpp",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T18:57:51.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Problem 9.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 9\\Problem 9.cpp",
+              "RelativeDocumentMoniker": "Problem 9\\Problem 9.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 9\\Problem 9.cpp",
+              "RelativeToolTip": "Problem 9\\Problem 9.cpp",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T19:44:57.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Problem 8.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 8\\Problem 8.cpp",
+              "RelativeDocumentMoniker": "Problem 8\\Problem 8.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 8\\Problem 8.cpp",
+              "RelativeToolTip": "Problem 8\\Problem 8.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T19:33:34.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Problem 7.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 7\\Problem 7.cpp",
+              "RelativeDocumentMoniker": "Problem 7\\Problem 7.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 7\\Problem 7.cpp",
+              "RelativeToolTip": "Problem 7\\Problem 7.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T20:21:26.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Problem 6.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 6\\Problem 6.cpp",
+              "RelativeDocumentMoniker": "Problem 6\\Problem 6.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 6\\Problem 6.cpp",
+              "RelativeToolTip": "Problem 6\\Problem 6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T20:12:52.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Problem 5.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 5\\Problem 5.cpp",
+              "RelativeDocumentMoniker": "Problem 5\\Problem 5.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 5\\Problem 5.cpp",
+              "RelativeToolTip": "Problem 5\\Problem 5.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T20:08:44.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "problem 4.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\problem 4\\problem 4.cpp",
+              "RelativeDocumentMoniker": "problem 4\\problem 4.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\problem 4\\problem 4.cpp",
+              "RelativeToolTip": "problem 4\\problem 4.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T19:55:03.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Problem 3.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 3\\Problem 3.cpp",
+              "RelativeDocumentMoniker": "Problem 3\\Problem 3.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 3\\Problem 3.cpp",
+              "RelativeToolTip": "Problem 3\\Problem 3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T19:34:54.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Problem 2.cpp",
+              "DocumentMoniker": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 2\\Problem 2.cpp",
+              "RelativeDocumentMoniker": "Problem 2\\Problem 2.cpp",
+              "ToolTip": "D:\\Data\\Problem Solving C\u002B\u002B\\Problem Solving\\Problem 2\\Problem 2.cpp",
+              "RelativeToolTip": "Problem 2\\Problem 2.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T17:43:58.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

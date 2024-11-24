@@ -1,0 +1,3 @@
+﻿  Problem 12.cpp
+D:\Data\Problem Solving C++\Problem Solving\Problem 12\Problem 12.cpp(49,1): warning C4715: 'AreTypicalMatrices': not all control paths return a value
+  Problem 12.vcxproj -> D:\Data\Problem Solving C++\Problem Solving\x64\Debug\Problem 12.exe

@@ -1,0 +1,4 @@
+﻿  Problem 42.cpp
+D:\Data\Problem Solving C++\Problem Solving\Problem 42\Problem 42.cpp(17,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\Problem Solving C++\Problem Solving\Problem 42\Problem 42.cpp(21,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Problem 42.vcxproj -> D:\Data\Problem Solving C++\Problem Solving\x64\Debug\Problem 42.exe
